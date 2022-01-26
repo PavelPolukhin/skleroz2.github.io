@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8edfe9-c323-4200-8d95-580b4a7a0f41" name="Changes" comment="" />
+    <list default="true" id="6c8edfe9-c323-4200-8d95-580b4a7a0f41" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/css/app.6c327823.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bck1.4a933da3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.3703f465.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.3703f465.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/app.c6d27821.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bck2.a1b6eb22.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.abf32e8a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.abf32e8a.js.map" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +29,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="1">
@@ -38,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643183748272</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <created>1643184067036</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643184067036</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
