@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c8edfe9-c323-4200-8d95-580b4a7a0f41" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/css/app.6c327823.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bck1.4a933da3.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.3703f465.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.3703f465.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643184659078</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1">
+      <created>1643184826923</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643184826923</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
